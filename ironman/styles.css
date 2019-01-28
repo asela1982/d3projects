@@ -1,0 +1,91 @@
+
+body{
+    background: #f2f3f6;
+    color: #50595e;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.rectangle {
+    fill:#3361B6;
+    stroke-width: 0.25%;
+}
+
+#buttons{
+    height: 40px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+   
+}
+
+svg{
+    background: #FFFFFF;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+
+.dot {
+    fill: slategray;
+  }
+
+
+div.tooltip{
+    background: #6A6C74;
+    text-align: left;
+    position: absolute;
+    color: white;
+    width: 125px;
+    height: 60px;
+    padding: 5px;
+    border-radius: 8px;
+    border: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+.filters{
+    float: left;
+    
+}
+
+.filter_label{
+    display:inline-block;
+    padding-right: .5em;
+    line-height: 1rem;
+    font-size: 12px;
+    margin-right: .25em;
+    padding: 0 .5em;
+    color: #008abc;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+}
+
+.filter_input{
+    display:inline-block;
+}
+
+.filter_input button{
+    font-family: 'Atlas Grotesk Web',Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+    line-height: 1;
+    font-size: 12px;
+    border: none;
+    color: #9499a0;
+    letter-spacing: .05em;
+    font-weight: 600;
+    background-color: transparent;
+    margin: .25em 0;
+    padding: .1em .5em;
+    cursor: pointer;
+}
+
+.ul_filters{
+    list-style-type: none;
+}
+
+.ul_filters li{
+    display:inline;
+}

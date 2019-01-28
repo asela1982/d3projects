@@ -1,0 +1,416 @@
+[
+    {
+        "Gender": "Female",
+        "Category": "25-29",
+        "Pos_flag": "DNS",
+        "Freq": 5
+    },
+    {
+        "Gender": "Female",
+        "Category": "30-34",
+        "Pos_flag": "DNF",
+        "Freq": 1
+    },
+    {
+        "Gender": "Female",
+        "Category": "30-34",
+        "Pos_flag": "DNS",
+        "Freq": 3
+    },
+    {
+        "Gender": "Female",
+        "Category": "35-39",
+        "Pos_flag": "DNF",
+        "Freq": 2
+    },
+    {
+        "Gender": "Female",
+        "Category": "35-39",
+        "Pos_flag": "DNS",
+        "Freq": 2
+    },
+    {
+        "Gender": "Female",
+        "Category": "40-44",
+        "Pos_flag": "DNF",
+        "Freq": 2
+    },
+    {
+        "Gender": "Female",
+        "Category": "40-44",
+        "Pos_flag": "DNS",
+        "Freq": 1
+    },
+    {
+        "Gender": "Female",
+        "Category": "45-49",
+        "Pos_flag": "DNF",
+        "Freq": 3
+    },
+    {
+        "Gender": "Female",
+        "Category": "45-49",
+        "Pos_flag": "DNS",
+        "Freq": 5
+    },
+    {
+        "Gender": "Female",
+        "Category": "50-54",
+        "Pos_flag": "DNF",
+        "Freq": 1
+    },
+    {
+        "Gender": "Female",
+        "Category": "50-54",
+        "Pos_flag": "DNS",
+        "Freq": 4
+    },
+    {
+        "Gender": "Female",
+        "Category": "55-59",
+        "Pos_flag": "DNF",
+        "Freq": 1
+    },
+    {
+        "Gender": "Female",
+        "Category": "60-64",
+        "Pos_flag": "DNS",
+        "Freq": 2
+    },
+    {
+        "Gender": "Female",
+        "Category": "Pro",
+        "Pos_flag": "DNS",
+        "Freq": 5
+    },
+    {
+        "Gender": "Female ",
+        "Category": "18-24",
+        "Pos_flag": "SUCCESS",
+        "Freq": 4
+    },
+    {
+        "Gender": "Female ",
+        "Category": "25-29",
+        "Pos_flag": "SUCCESS",
+        "Freq": 16
+    },
+    {
+        "Gender": "Female ",
+        "Category": "30-34",
+        "Pos_flag": "SUCCESS",
+        "Freq": 22
+    },
+    {
+        "Gender": "Female ",
+        "Category": "35-39",
+        "Pos_flag": "SUCCESS",
+        "Freq": 36
+    },
+    {
+        "Gender": "Female ",
+        "Category": "40-44",
+        "Pos_flag": "SUCCESS",
+        "Freq": 35
+    },
+    {
+        "Gender": "Female ",
+        "Category": "45-49",
+        "Pos_flag": "SUCCESS",
+        "Freq": 46
+    },
+    {
+        "Gender": "Female ",
+        "Category": "50-54",
+        "Pos_flag": "SUCCESS",
+        "Freq": 31
+    },
+    {
+        "Gender": "Female ",
+        "Category": "55-59",
+        "Pos_flag": "SUCCESS",
+        "Freq": 14
+    },
+    {
+        "Gender": "Female ",
+        "Category": "60-64",
+        "Pos_flag": "SUCCESS",
+        "Freq": 3
+    },
+    {
+        "Gender": "Female ",
+        "Category": "65-69",
+        "Pos_flag": "SUCCESS",
+        "Freq": 4
+    },
+    {
+        "Gender": "Female ",
+        "Category": "PC",
+        "Pos_flag": "SUCCESS",
+        "Freq": 1
+    },
+    {
+        "Gender": "Female ",
+        "Category": "Pro",
+        "Pos_flag": "SUCCESS",
+        "Freq": 8
+    },
+    {
+        "Gender": "Male",
+        "Category": "18-24",
+        "Pos_flag": "DNF",
+        "Freq": 1
+    },
+    {
+        "Gender": "Male",
+        "Category": "18-24",
+        "Pos_flag": "DNS",
+        "Freq": 4
+    },
+    {
+        "Gender": "Male",
+        "Category": "25-29",
+        "Pos_flag": "DNF",
+        "Freq": 1
+    },
+    {
+        "Gender": "Male",
+        "Category": "25-29",
+        "Pos_flag": "DNS",
+        "Freq": 6
+    },
+    {
+        "Gender": "Male",
+        "Category": "30-34",
+        "Pos_flag": "DNF",
+        "Freq": 4
+    },
+    {
+        "Gender": "Male",
+        "Category": "30-34",
+        "Pos_flag": "DNS",
+        "Freq": 6
+    },
+    {
+        "Gender": "Male",
+        "Category": "35-39",
+        "Pos_flag": "DNF",
+        "Freq": 4
+    },
+    {
+        "Gender": "Male",
+        "Category": "35-39",
+        "Pos_flag": "DNS",
+        "Freq": 9
+    },
+    {
+        "Gender": "Male",
+        "Category": "40-44",
+        "Pos_flag": "DNF",
+        "Freq": 3
+    },
+    {
+        "Gender": "Male",
+        "Category": "40-44",
+        "Pos_flag": "DNS",
+        "Freq": 18
+    },
+    {
+        "Gender": "Male",
+        "Category": "40-44",
+        "Pos_flag": "DQ",
+        "Freq": 2
+    },
+    {
+        "Gender": "Male",
+        "Category": "45-49",
+        "Pos_flag": "DNF",
+        "Freq": 9
+    },
+    {
+        "Gender": "Male",
+        "Category": "45-49",
+        "Pos_flag": "DNS",
+        "Freq": 24
+    },
+    {
+        "Gender": "Male",
+        "Category": "45-49",
+        "Pos_flag": "DQ",
+        "Freq": 1
+    },
+    {
+        "Gender": "Male",
+        "Category": "50-54",
+        "Pos_flag": "DNF",
+        "Freq": 5
+    },
+    {
+        "Gender": "Male",
+        "Category": "50-54",
+        "Pos_flag": "DNS",
+        "Freq": 12
+    },
+    {
+        "Gender": "Male",
+        "Category": "50-54",
+        "Pos_flag": "DQ",
+        "Freq": 1
+    },
+    {
+        "Gender": "Male",
+        "Category": "55-59",
+        "Pos_flag": "DNF",
+        "Freq": 3
+    },
+    {
+        "Gender": "Male",
+        "Category": "55-59",
+        "Pos_flag": "DNS",
+        "Freq": 7
+    },
+    {
+        "Gender": "Male",
+        "Category": "55-59",
+        "Pos_flag": "DQ",
+        "Freq": 1
+    },
+    {
+        "Gender": "Male",
+        "Category": "60-64",
+        "Pos_flag": "DNF",
+        "Freq": 1
+    },
+    {
+        "Gender": "Male",
+        "Category": "60-64",
+        "Pos_flag": "DNS",
+        "Freq": 5
+    },
+    {
+        "Gender": "Male",
+        "Category": "65-69",
+        "Pos_flag": "DNF",
+        "Freq": 3
+    },
+    {
+        "Gender": "Male",
+        "Category": "65-69",
+        "Pos_flag": "DNS",
+        "Freq": 2
+    },
+    {
+        "Gender": "Male",
+        "Category": "70-74",
+        "Pos_flag": "DNF",
+        "Freq": 1
+    },
+    {
+        "Gender": "Male",
+        "Category": "80-84",
+        "Pos_flag": "DNS",
+        "Freq": 1
+    },
+    {
+        "Gender": "Male",
+        "Category": "PC",
+        "Pos_flag": "DNF",
+        "Freq": 1
+    },
+    {
+        "Gender": "Male",
+        "Category": "Pro",
+        "Pos_flag": "DNF",
+        "Freq": 4
+    },
+    {
+        "Gender": "Male",
+        "Category": "Pro",
+        "Pos_flag": "DNS",
+        "Freq": 5
+    },
+    {
+        "Gender": "Male ",
+        "Category": "18-24",
+        "Pos_flag": "SUCCESS",
+        "Freq": 16
+    },
+    {
+        "Gender": "Male ",
+        "Category": "25-29",
+        "Pos_flag": "SUCCESS",
+        "Freq": 60
+    },
+    {
+        "Gender": "Male ",
+        "Category": "30-34",
+        "Pos_flag": "SUCCESS",
+        "Freq": 96
+    },
+    {
+        "Gender": "Male ",
+        "Category": "35-39",
+        "Pos_flag": "SUCCESS",
+        "Freq": 117
+    },
+    {
+        "Gender": "Male ",
+        "Category": "40-44",
+        "Pos_flag": "SUCCESS",
+        "Freq": 129
+    },
+    {
+        "Gender": "Male ",
+        "Category": "45-49",
+        "Pos_flag": "SUCCESS",
+        "Freq": 153
+    },
+    {
+        "Gender": "Male ",
+        "Category": "50-54",
+        "Pos_flag": "SUCCESS",
+        "Freq": 85
+    },
+    {
+        "Gender": "Male ",
+        "Category": "55-59",
+        "Pos_flag": "SUCCESS",
+        "Freq": 51
+    },
+    {
+        "Gender": "Male ",
+        "Category": "60-64",
+        "Pos_flag": "SUCCESS",
+        "Freq": 16
+    },
+    {
+        "Gender": "Male ",
+        "Category": "65-69",
+        "Pos_flag": "SUCCESS",
+        "Freq": 6
+    },
+    {
+        "Gender": "Male ",
+        "Category": "70-74",
+        "Pos_flag": "SUCCESS",
+        "Freq": 2
+    },
+    {
+        "Gender": "Male ",
+        "Category": "PC",
+        "Pos_flag": "SUCCESS",
+        "Freq": 1
+    },
+    {
+        "Gender": "Male ",
+        "Category": "Pro",
+        "Pos_flag": "SUCCESS",
+        "Freq": 10
+    },
+    {
+        "Gender": "Male ",
+        "Category": "Special Team",
+        "Pos_flag": "SUCCESS",
+        "Freq": 2
+    }
+]
